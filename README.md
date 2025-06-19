@@ -60,7 +60,6 @@
     </div>
     <div class="item-card">
       <h2>Keyboard</h2>
-      <p>₹699</p>
     </div>
   </div>
 </body>
